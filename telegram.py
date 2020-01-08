@@ -2,13 +2,6 @@
 import telebot
 import os
 
-# питон хуйон
-# люба хуюба
-# лёша хуёша
-#
-#
-#
-
 key_msg = "хуй"
 short_key_msg = "ху"
 
